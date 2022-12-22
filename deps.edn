@@ -1,0 +1,2 @@
+{:paths   ["src"]
+ :deps    {com.github.clojure-lsp/clojure-lsp-standalone {:mvn/version "2022.12.09-15.51.10"}}}
